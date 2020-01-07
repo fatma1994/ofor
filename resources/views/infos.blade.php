@@ -57,13 +57,11 @@
                 <h2>
 Découverte: Lycée Privee Fallou galass-Mbacke </h2> 
             </div>
-            <div row>
-             <div class="col-8 row">
-
-            <div>SITUATION ET HISTORIQUE</div>
-
-
-
+            
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-12 col-lg-6 d-none d-md-flex flex-wrap ">
+            <div><p>SITUATION ET HISTORIQUE</p></div>
 <div>La création de ce lycée était, à l’origine, motivée par le souci
  de satisfaire la trop forte demande scolaire des populations de la
   MBACKE, qui n’avaient pas de structures éducatives du second cycle
@@ -78,27 +76,38 @@ Découverte: Lycée Privee Fallou galass-Mbacke </h2>
         </div>
        <div>                                Portail du LSLL
 
-<div>Etablissement public d’enseignement secondaire général, 
+
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-12 col-lg-6 d-none d-md-flex flex-wrap ">
+                          Etablissement public d’enseignement secondaire général, 
 technique et de Formation professionnelle, le lycée Seydina Limamou Laye,
  depuis sa création,  s’est toujours distingué sur le plan des résultats
   aussi bien au baccalauréat qu’au Concours général. Egalement, les Clubs
    remportent régulièrement des prix dans différents concours et manifestations.
-    C’est dire que le lycée Seydina Limamou Laye
    mérite sa renommée et son statut de lycée d’excellence.</div>
 
-<div>Le lycée Seydina Limamou Laye compte actuellement douze (12) agents 
+
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-12 col-lg-6 d-none d-md-flex flex-wrap ">
+                          Le lycée Fallou Galass compte actuellement douze (12) agents 
 de l’administration, deux cent quatre-vingt-dix (290) Enseignants, trente-trois 
 (33) personnels d’encadrement, trente-cinq (35) personnels de service et cinq mille 
 sept cent un (5701) élèves (4812 dans l’Enseignement général, 547 dans l’Enseignement
  technique et 342 dans la Formation professionnelle). Le Proviseur a donc sous
   sa dépendance six-mille-soixante-dix (6070) agents qu’il doit administrer.</div>
-<div>I. ORGANISATION DU LYCEE SEYDINA LIMAMOU LAYE
+
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-12 col-lg-6 d-none d-md-flex flex-wrap ">
+                          I. ORGANISATION DU FALLOU GALASS 
 
 1.2. Les ressources humaines
 
 1.3.1.1. Le personnel administratif
 
-Sur le plan administratif, le lycée Seydina Limamou Laye est dirigé par un Proviseur,
+Sur le plan administratif, le lycée Fallou Galass est dirigé par un Proviseur,
  Chef de l’Etablissement. Il est assisté dans les différents domaines de la gestion du lycée par :
 
     un Censeur, responsable de la gestion pédagogique de l’Enseignement général ;
@@ -119,6 +128,142 @@ Sur le plan administratif, le lycée Seydina Limamou Laye est dirigé par un Pro
     </div>
 </div>
 </div>
+
+
+<footer class="site-footer">
+    <div class="footer-widgets">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="foot-about">
+                        
+                        <h2>Lycee Excellence</h2>
+                        <p>le travail-la dicipline-la reussite </p>
+                        <p>votre device</p>
+
+                        <p class="footer-copyright"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> lycee d'excellence|proprietaire <i class="fa fa-heart-o" aria-hidden="true"></i>
+ <footer class="entry-footer read-more">
+                                <h5>Copyright sokhnafatma@!</h5>
+                            </footer><!-- .entry-footer -->
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                    </div><!-- .foot-about -->
+                </div><!-- .col -->
+
+                <div class="col-12 col-md-6 col-lg-3 mt-5 mt-md-0">
+                    <div class="foot-contact">
+                        <h2>Contact Us</h2>
+
+                        <ul>
+                            <li>Email: fallougalass@gmail.com</li>
+                            <li>Phone: (+221)77-641-84-90</li>
+                            <li>Address:avenu cheikhoul khadim</li>
+                        </ul>
+                    </div><!-- .foot-contact -->
+                </div><!-- .col -->
+
+                <div class="col-12 col-md-6 col-lg-3 mt-5 mt-lg-0">
+                    <div class="quick-links flex flex-wrap">
+                        <h2 class="w-100">Quick Links</h2>
+
+                        
+
+                        <ul class="w-50">
+                            <li><a href="{{('contact')}}">Contact</a></li>
+                            <li><a href="{{('infos')}}">Infos</a></li>
+                            <li><a href="{{('infos')}}">video</a></li>
+                            
+                        </ul>
+                    </div><!-- .quick-links -->
+                </div><!-- .col -->
+
+                <div class="col-12 col-md-6 col-lg-3 mt-5 mt-lg-0">
+                    <div class="follow-us">
+                        <h2>Follow Us</h2>
+
+                        <ul class="follow-us flex flex-wrap align-items-center">
+                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        </ul>
+                    </div><!-- .quick-links -->
+                </div><!-- .col -->
+            </div><!-- .row -->
+        </div><!-- .container -->
+    </div><!-- .footer-widgets -->
+
+   <marquee><h5>Bienvenu au lycee d' excellence!!!</h5></marquee>
+</footer><!-- .site-footer -->
+
+
+
+
+
+
+
+
+
+
+    <section class="home-gallery">
+        <div class="gallery-wrap flex flex-wrap">
+            <div class="gallery-grid gallery-grid1x1">
+                <a href="#"><img src="images/a.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
+            <div class="gallery-grid gallery-grid1x1">
+                <a href="#"><img src="images/b.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
+            <div class="gallery-grid gallery-grid2x2">
+                <a href="#"><img src="images/c.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
+            <div class="gallery-grid gallery-grid1x1">
+                <a href="#"><img src="images/d.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
+            <div class="gallery-grid gallery-grid1x1">
+                <a href="#"><img src="images/e.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
+            <div class="gallery-grid gallery-grid2x1">
+                <a href="#"><img src="images/g.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
+            <div class="gallery-grid gallery-grid2x1">
+                <a href="#"><img src="images/h.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
+            <div class="gallery-grid gallery-grid1x1">
+                <a href="#"><img src="images/i.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
+            <div class="gallery-grid gallery-grid2x2 ">
+                <a href="#"><img src="images/j.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
+            <div class="gallery-grid gallery-grid1x1">
+                <a href="#"><img src="images/k.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
+            <div class="gallery-grid gallery-grid1x1">
+                <a href="#"><img src="images/l.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
+            <div class="gallery-grid gallery-grid2x1">
+                <a href="#"><img src="images/m.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
+            <div class="gallery-grid gallery-grid3x1">
+                <a href="#"><img src="images/n.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
+            <div class="gallery-grid gallery-grid1x1">
+                <a href="#"><img src="images/o.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+        </div><!-- .gallery-wrap -->
+    </section><!-- .home-gallery -->
 
 
 
