@@ -187,17 +187,15 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> lycee
         </div><!-- .container -->
     </div><!-- .footer-widgets -->
 
+
+
+
+
+
+
+
    <marquee><h5>Bienvenu au lycee d' excellence!!!</h5></marquee>
 </footer><!-- .site-footer -->
-
-
-
-
-
-
-
-
-
 
     <section class="home-gallery">
         <div class="gallery-wrap flex flex-wrap">
@@ -206,47 +204,47 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> lycee
             </div><!-- .gallery-grid -->
 
             <div class="gallery-grid gallery-grid1x1">
-                <a href="#"><img src="images/b.jpg" alt=""></a>
+                <a href="#"><img src="images/b-2.jpg" alt=""></a>
             </div><!-- .gallery-grid -->
 
             <div class="gallery-grid gallery-grid2x2">
-                <a href="#"><img src="images/c.jpg" alt=""></a>
+                <a href="#"><img src="images/fa.jpg" alt=""></a>
             </div><!-- .gallery-grid -->
 
             <div class="gallery-grid gallery-grid1x1">
-                <a href="#"><img src="images/d.jpg" alt=""></a>
+                <a href="#"><img src="images/fat.jpg" alt=""></a>
             </div><!-- .gallery-grid -->
 
             <div class="gallery-grid gallery-grid1x1">
-                <a href="#"><img src="images/e.jpg" alt=""></a>
+                <a href="#"><img src="images/fati.jpg" alt=""></a>
             </div><!-- .gallery-grid -->
 
             <div class="gallery-grid gallery-grid2x1">
-                <a href="#"><img src="images/g.jpg" alt=""></a>
-            </div><!-- .gallery-grid -->
-
-            <div class="gallery-grid gallery-grid2x1">
-                <a href="#"><img src="images/h.jpg" alt=""></a>
-            </div><!-- .gallery-grid -->
-
-            <div class="gallery-grid gallery-grid1x1">
                 <a href="#"><img src="images/i.jpg" alt=""></a>
             </div><!-- .gallery-grid -->
 
+            <div class="gallery-grid gallery-grid2x1">
+                <a href="#"><img src="images/im.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
+            <div class="gallery-grid gallery-grid1x1">
+                <a href="#"><img src="images/ima.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
             <div class="gallery-grid gallery-grid2x2 ">
-                <a href="#"><img src="images/j.jpg" alt=""></a>
+                <a href="#"><img src="images/fa.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
+            <div class="gallery-grid gallery-grid1x1">
+                <a href="#"><img src="images/di.jpg" alt=""></a>
             </div><!-- .gallery-grid -->
 
             <div class="gallery-grid gallery-grid1x1">
                 <a href="#"><img src="images/k.jpg" alt=""></a>
             </div><!-- .gallery-grid -->
 
-            <div class="gallery-grid gallery-grid1x1">
-                <a href="#"><img src="images/l.jpg" alt=""></a>
-            </div><!-- .gallery-grid -->
-
             <div class="gallery-grid gallery-grid2x1">
-                <a href="#"><img src="images/m.jpg" alt=""></a>
+                <a href="#"><img src="images/k.jpg" alt=""></a>
             </div><!-- .gallery-grid -->
 
             <div class="gallery-grid gallery-grid3x1">

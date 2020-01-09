@@ -41,7 +41,7 @@
                                     <div class="header-bar-menu">
                                        
                                                 <ul class="flex flex-column flex-lg-row justify-content-lg-end align-content-center">
-                                                        <li class="current-menu-item"><a href="{{'/'}}">accueil</a></li>
+                                                        <li class="current-menu-item btn btn-success"><a href="{{'/'}}">accueil</a></li>
                                                       
                                                     </ul>
                             
@@ -51,84 +51,86 @@
                         </div><!-- .container-fluid -->
                     </div><!-- .top-header-bar -->
         
-    <div conteiner>
-        <div row>
-            <div class="text-center">
-                <h2>
-Découverte: Lycée Privee Fallou galass-Mbacke </h2> 
-            </div>
-            
-                <div class="container-fluid">
-                    <div class="row">
-                        <div class="col-12 col-lg-6 d-none d-md-flex flex-wrap ">
-            <div><p>SITUATION ET HISTORIQUE</p></div>
-<div>La création de ce lycée était, à l’origine, motivée par le souci
- de satisfaire la trop forte demande scolaire des populations de la
-  MBACKE, qui n’avaient pas de structures éducatives du second cycle
-   ni de structures d’Enseignement technique et de Formation professionnelle.</div>
+                    <div conteiner>
+                      <div row>
+                        <div class="text-center">
+                          <h2 class="btn btn-success">
+                         <P> Découverte: Lycée Privee Fallou galass-Mbacke</P> </h2> 
+                        </div>
 
-<div>Baptisé à l’occasion de son inauguration le 7 juin 1979 par
- Abdou Diouf, Premier Ministre du Sénégal et le Khalife Général
-  des Mouride, conformément au décret numéro 79.516 du 7 juin 1979,
-   il s’appellera désormais Lycée fallou galasse. Le 10 Octobre de la
-    même année, le lycée sera ouvert pour accueillir ses premiers
-     élèves dans ses nouveaux locaux.</div>
-        </div>
-       <div>                                Portail du LSLL
+                        <div class="container-fluid">
+                          <div class="row">
+                              <div><a href="#">  <img src="images/2.jpg" class="d-block w-100" width="100px" alt=""></a>
+                              </div>
+               
+                            <div class="col-4 col-lg-6 d-none d-md-flex flex-wrap ">
+                              <div>
+                                <p class="btn btn-success">SITUATION ET HISTORIQUE</p>
+                              </div>
+                              
+                              <div>
+                                La création de ce lycée était, à l’origine, motivée par le souci
+                                de satisfaire la trop forte demande scolaire des populations de la
+                                MBACKE, qui n’avaient pas de structures éducatives du second cycle
+                                ni de structures d’Enseignement technique et de Formation professionnelle.
+                              </div>
+                              
 
+                              <div>
+                                Baptisé à l’occasion de son inauguration le 7 juin 1979 par
+                                Abdou Diouf, Premier Ministre du Sénégal et le Khalife Général
+                                des Mouride, conformément au décret numéro 79.516 du 7 juin 1979,
+                                il s’appellera désormais Lycée fallou galasse. Le 10 Octobre de la
+                                même année, le lycée sera ouvert pour accueillir ses premiers
+                                élèves dans ses nouveaux locaux.
+                              </div>
 
-                <div class="container-fluid">
-                    <div class="row">
-                        <div class="col-12 col-lg-6 d-none d-md-flex flex-wrap ">
-                          Etablissement public d’enseignement secondaire général, 
-technique et de Formation professionnelle, le lycée Seydina Limamou Laye,
- depuis sa création,  s’est toujours distingué sur le plan des résultats
-  aussi bien au baccalauréat qu’au Concours général. Egalement, les Clubs
-   remportent régulièrement des prix dans différents concours et manifestations.
-   mérite sa renommée et son statut de lycée d’excellence.</div>
+                              <div>
+                                <p class="btn btn-success">Portail du Lycee</p>
+                              </div>
 
+                              Etablissement public d’enseignement secondaire général, 
+                              technique et de Formation professionnelle, le lycée Seydina Limamou Laye,
+                              depuis sa création,  s’est toujours distingué sur le plan des résultats
+                              aussi bien au baccalauréat qu’au Concours général. Egalement, les Clubs
+                              remportent régulièrement des prix dans différents concours et manifestations.
+                              mérite sa renommée et son statut de lycée d’excellence.
+                            
+                            
+                             Le lycée Fallou Galass compte actuellement douze (12) agents 
+                             de l’administration, deux cent quatre-vingt-dix (290) Enseignants, trente-trois 
+                             (33) personnels d’encadrement, trente-cinq (35) personnels de service et cinq mille 
+                             sept cent un (5701) élèves (4812 dans l’Enseignement général, 547 dans l’Enseignement
+                             technique et 342 dans la Formation professionnelle). Le Proviseur a donc sous
+                             sa dépendance six-mille-soixante-dix (6070) agents qu’il doit administrer.
+                           
 
-                <div class="container-fluid">
-                    <div class="row">
-                        <div class="col-12 col-lg-6 d-none d-md-flex flex-wrap ">
-                          Le lycée Fallou Galass compte actuellement douze (12) agents 
-de l’administration, deux cent quatre-vingt-dix (290) Enseignants, trente-trois 
-(33) personnels d’encadrement, trente-cinq (35) personnels de service et cinq mille 
-sept cent un (5701) élèves (4812 dans l’Enseignement général, 547 dans l’Enseignement
- technique et 342 dans la Formation professionnelle). Le Proviseur a donc sous
-  sa dépendance six-mille-soixante-dix (6070) agents qu’il doit administrer.</div>
+                          <div><p class="btn btn-success">
+                            I. ORGANISATION DU FALLOU GALASS </p>
+                          </div>
+                         
+                     
+                           Sur le plan administratif, le lycée Fallou Galass est dirigé par un Proviseur,
+                           Chef de l’Etablissement. Il est assisté dans les différents domaines de la gestion du lycée par :
 
-                <div class="container-fluid">
-                    <div class="row">
-                        <div class="col-12 col-lg-6 d-none d-md-flex flex-wrap ">
-                          I. ORGANISATION DU FALLOU GALASS 
+                           un Censeur, responsable de la gestion pédagogique de l’Enseignement général ;
+                           un Directeur des Etudes, chargé de la gestion pédagogique de
+                           l’Enseignement technique et de la Formation professionnelle
+                           assisté par un Chef des travaux dont le rôle est de coordonner
+                           les travaux au niveau des ateliers ;
+                           une Intendante, chargée de la gestion financière ;
+                           une Comptable matière ;
+                           une aide d’administration ;
+                           deux secrétaires ;
+                           un infirmier ;
+                           un assistant social ;
+                           un agent de santé ;
+                           un concierge ;
 
-1.2. Les ressources humaines
-
-1.3.1.1. Le personnel administratif
-
-Sur le plan administratif, le lycée Fallou Galass est dirigé par un Proviseur,
- Chef de l’Etablissement. Il est assisté dans les différents domaines de la gestion du lycée par :
-
-    un Censeur, responsable de la gestion pédagogique de l’Enseignement général ;
-    un Directeur des Etudes, chargé de la gestion pédagogique de
-     l’Enseignement technique et de la Formation professionnelle
-      assisté par un Chef des travaux dont le rôle est de coordonner
-       les travaux au niveau des ateliers ;
-    une Intendante, chargée de la gestion financière ;
-    une Comptable matière ;
-    une aide d’administration ;
-    deux secrétaires ;
-    un infirmier ;
-    un assistant social ;
-    un agent de santé ;
-    un concierge ;
-
-</div>
-    </div>
-</div>
-</div>
-
+                         </div>
+                       </div>
+                     </div>
+                   </div>
 
 <footer class="site-footer">
     <div class="footer-widgets">

@@ -85,10 +85,10 @@
                   <img src="images/2.jpg" class="d-block w-100" alt="">
               </div>
               <div class="carousel-item">
-                <img src="images/3.jpg" class="d-block w-100" alt="">
+                <img src="images/b-2.jpg" class="d-block w-100" alt="">
               </div>
               <div class="carousel-item">
-                <img src="images/2.jpg" class="d-block w-100" alt="...">
+                <img src="images/fa.jpg" class="d-block w-100" alt="...">
               </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -122,8 +122,8 @@
         <div class="row justify-content-between">
             <div class="col-12">
                 <div class="contact-gmap">
-                    <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://goo.gl/maps/4XvPmWBQHkw11xbS8"  allowfullscreen >
-                    </iframe>
+                   
+                     <img src="images/maps.jpg" class="d-block w-100" alt="">
                 </div><!-- .contact-gmap -->
             </div><!-- .col -->
 
@@ -132,6 +132,7 @@
                     <h3>Contact From</h3>
 
                     <form  action="" method="post" id="form">
+                         @csrf
                         <div id="error"></div>
                         <input type="text" id="nom" placeholder="votre Nom">
                         <input type="email" id="email" placeholder="Votre Email">
