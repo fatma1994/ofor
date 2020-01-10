@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="{{asset('css/all.css')}}">
 </head>
 <body>
-     <img src="images/2.jpg" class="d-block w-100" alt="">
+     <img src="images/fal.jpg" class="d-block w-100" alt="">
     <div class="hero-content">
         <header class="site-header">
             <div class="top-header-bar">
@@ -29,12 +29,7 @@
                         </div><!-- .col -->
 
                         <div class="col-12 col-lg-6 d-flex flex-wrap justify-content-center justify-content-lg-end align-items-center">
-                            <div class="header-bar-search">
-                                <form class="flex align-items-stretch">
-                                    <input type="search" placeholder="Rechercher">
-                                    <button type="submit" value="" class="flex justify-content-center align-items-center"><i class="fa fa-search"></i></button>
-                                </form>
-                            </div><!-- .header-bar-search -->
+                           
 
 
 
@@ -200,15 +195,15 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> lycee
     <section class="home-gallery">
         <div class="gallery-wrap flex flex-wrap">
             <div class="gallery-grid gallery-grid1x1">
-                <a href="#"><img src="images/a.jpg" alt=""></a>
+                <a href="#"><img src="images/fal.jpg" alt=""></a>
             </div><!-- .gallery-grid -->
 
             <div class="gallery-grid gallery-grid1x1">
-                <a href="#"><img src="images/b-2.jpg" alt=""></a>
+                <a href="#"><img src="images/s1.jpg" alt=""></a>
             </div><!-- .gallery-grid -->
 
             <div class="gallery-grid gallery-grid2x2">
-                <a href="#"><img src="images/fa.jpg" alt=""></a>
+                <a href="#"><img src="images/s4.jpg" alt=""></a>
             </div><!-- .gallery-grid -->
 
             <div class="gallery-grid gallery-grid1x1">
@@ -220,11 +215,11 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> lycee
             </div><!-- .gallery-grid -->
 
             <div class="gallery-grid gallery-grid2x1">
-                <a href="#"><img src="images/i.jpg" alt=""></a>
+                <a href="#"><img src="images/s2.jpg" alt=""></a>
             </div><!-- .gallery-grid -->
 
             <div class="gallery-grid gallery-grid2x1">
-                <a href="#"><img src="images/im.jpg" alt=""></a>
+                <a href="#"><img src="images/s3.jpg" alt=""></a>
             </div><!-- .gallery-grid -->
 
             <div class="gallery-grid gallery-grid1x1">
@@ -236,7 +231,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> lycee
             </div><!-- .gallery-grid -->
 
             <div class="gallery-grid gallery-grid1x1">
-                <a href="#"><img src="images/di.jpg" alt=""></a>
+                <a href="#"><img src="images/s4.jpg" alt=""></a>
             </div><!-- .gallery-grid -->
 
             <div class="gallery-grid gallery-grid1x1">
@@ -248,7 +243,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> lycee
             </div><!-- .gallery-grid -->
 
             <div class="gallery-grid gallery-grid3x1">
-                <a href="#"><img src="images/n.jpg" alt=""></a>
+                <a href="#"><img src="images/fa.jpg" alt=""></a>
             </div><!-- .gallery-grid -->
 
             <div class="gallery-grid gallery-grid1x1">

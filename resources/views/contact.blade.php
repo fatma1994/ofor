@@ -82,10 +82,13 @@
         <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
               <div class="carousel-item active">
-                  <img src="images/2.jpg" class="d-block w-100" alt="">
+                  <img src="images/s6.jpg" class="d-block w-100" alt="">
               </div>
               <div class="carousel-item">
-                <img src="images/b-2.jpg" class="d-block w-100" alt="">
+                <img src="images/s1.jpg" class="d-block w-100" alt="">
+              </div>
+               <div class="carousel-item">
+                <img src="images/fal.jpg" class="d-block w-100" alt="">
               </div>
               <div class="carousel-item">
                 <img src="images/fa.jpg" class="d-block w-100" alt="...">
@@ -123,7 +126,7 @@
             <div class="col-12">
                 <div class="contact-gmap">
                    
-                     <img src="images/maps.jpg" class="d-block w-100" alt="">
+                     <img src="images/p.png" class="d-block w-100" alt="">
                 </div><!-- .contact-gmap -->
             </div><!-- .col -->
 

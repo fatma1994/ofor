@@ -136,19 +136,19 @@
         <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
               <div class="carousel-item active">
-                  <img src="images/2.jpg" class="d-block w-100" alt="">
+                  <img src="images/s6.jpg" class="d-block w-100" alt="">
               </div>
               <div class="carousel-item">
-                <img src="images/3.jpg" class="d-block w-100" alt="">
+                <img src="images/s1.jpg" class="d-block w-100" alt="">
               </div>
               <div class="carousel-item">
-                <img src="images/6.jpg" class="d-block w-100" alt="...">
+                <img src="images/s3.jpg" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item">
-                <img src="images/4.jpg" class="d-block w-100" alt="...">
+                <img src="images/s2.jpg" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item">
-                <img src="images/b-2.jpg" class="d-block w-100" alt="...">
+                <img src="images/s4.jpg" class="d-block w-100" alt="...">
               </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -251,6 +251,66 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> lycee
    <marquee><h5>Bienvenu au lycee d' excellence!!!</h5></marquee>
 </footer><!-- .site-footer -->
                          
+ <section class="home-gallery">
+        <div class="gallery-wrap flex flex-wrap">
+            <div class="gallery-grid gallery-grid1x1">
+                <a href="#"><img src="images/fal.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
+            <div class="gallery-grid gallery-grid1x1">
+                <a href="#"><img src="images/s1.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
+            <div class="gallery-grid gallery-grid2x2">
+                <a href="#"><img src="images/s4.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
+            <div class="gallery-grid gallery-grid1x1">
+                <a href="#"><img src="images/fat.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
+            <div class="gallery-grid gallery-grid1x1">
+                <a href="#"><img src="images/fati.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
+            <div class="gallery-grid gallery-grid2x1">
+                <a href="#"><img src="images/s2.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
+            <div class="gallery-grid gallery-grid2x1">
+                <a href="#"><img src="images/s3.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
+            <div class="gallery-grid gallery-grid1x1">
+                <a href="#"><img src="images/ima.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
+            <div class="gallery-grid gallery-grid2x2 ">
+                <a href="#"><img src="images/fa.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
+            <div class="gallery-grid gallery-grid1x1">
+                <a href="#"><img src="images/s4.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
+            <div class="gallery-grid gallery-grid1x1">
+                <a href="#"><img src="images/k.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
+            <div class="gallery-grid gallery-grid2x1">
+                <a href="#"><img src="images/k.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
+            <div class="gallery-grid gallery-grid3x1">
+                <a href="#"><img src="images/fa.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+
+            <div class="gallery-grid gallery-grid1x1">
+                <a href="#"><img src="images/o.jpg" alt=""></a>
+            </div><!-- .gallery-grid -->
+        </div><!-- .gallery-wrap -->
+    </section><!-- .home-gallery -->
+
 
                              
 

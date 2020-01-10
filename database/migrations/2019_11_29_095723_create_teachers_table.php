@@ -18,7 +18,7 @@ class CreateTeachersTable extends Migration
             $table->string('nom');
              $table->string('prenom');
              $table->string('email');
-              $table->string('telephone');
+              $table->string('telephone')->unique();
             $table->timestamps();
         });
     }

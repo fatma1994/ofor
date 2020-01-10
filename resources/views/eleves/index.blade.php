@@ -13,6 +13,7 @@
   <link rel="stylesheet" href="{{asset('css/all.css')}}">
 </head>
 <body>
+  <img src="images/s5.jpg" class="d-block w-100" alt="...">
   <div class="hero-content">
     <header class="site-header">
       <div class="top-header-bar">
@@ -55,26 +56,26 @@
             </p>
           </div>
 
-          <th>#</th>
-          <th>matricule</th>
-          <th>nom</th>
-          <th>prenom</th>
-          <th>sexe</th>
-          <th>date_naissance</th>
-          <th>lieu_naissance</th>
-          <th>telephone</th>
-          <th>Action</th>
+          <th class="text-light" >#</th>
+          <th class="text-light">matricule</th>
+          <th class="text-light">nom</th>
+          <th class="text-light">prenom</th>
+          <th class="text-light">sexe</th>
+          <th class="text-light">date_naissance</th>
+          <th class="text-light">lieu_naissance</th>
+          <th class="text-light">telephone</th>
+          <th class="text-light">Action</th>
         </tr>
         @foreach ($eleve as $v)
         <tr>
-          <th>{{ $loop->index }}</th>
-          <th>{{$v->matricule}}</th>
-          <th>{{$v->nom}}</th>
-          <th>{{$v->prenom}}</th>
-          <th>{{$v->sexe}}</th>
-          <th>{{$v->date_naissance}}</th>
-          <th>{{$v->lieu_naissance}}</th>
-          <th>{{$v->telephone}}</th>
+          <th class="text-light">{{ $loop->index }}</th>
+          <th class="text-light">{{$v->matricule}}</th>
+          <th class="text-light">{{$v->nom}}</th>
+          <th class="text-light">{{$v->prenom}}</th>
+          <th class="text-light">{{$v->sexe}}</th>
+          <th class="text-light">{{$v->date_naissance}}</th>
+          <th class="text-light">{{$v->lieu_naissance}}</th>
+          <th class="text-light">{{$v->telephone}}</th>
           
             @if (Auth::user()->role == 'admin')
           <th>

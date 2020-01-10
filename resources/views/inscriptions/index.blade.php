@@ -64,7 +64,7 @@
         <th>{{$v->date_inscrit}}</th>
          <th>{{$v->frais_inscription}}</th>
           <th>{{$v->annee_academique}}</th>
-           <th>{{$v->eleve_id}}</th>
+           <th><a href="{{'eleve'}}"> {{$v->eleve_id}}</a></th>
             <th>{{$v->classe_id}}</th>
           <th>
                @if (Auth::user()->role == 'admin')
