@@ -30,12 +30,7 @@
                         </div><!-- .col -->
 
                         <div class="col-12 col-lg-6 d-flex flex-wrap justify-content-center justify-content-lg-end align-items-center">
-                                     <div class="header-bar-search">
-                                <form class="flex align-items-stretch">
-                                    <input type="search" placeholder="Rechercher">
-                                    <button type="submit" value="" class="flex justify-content-center align-items-center"><i class="fa fa-search"></i></button>
-                                </form>
-                            </div><!-- .header-bar-search -->
+                                  
 
 
                                @guest
